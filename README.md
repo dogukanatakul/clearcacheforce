@@ -1,2 +1,2 @@
-# prestashop-clearcache
-Automatic cache clearing after all updates. Prestashop.
+# Prestashop Persistent Caches Force Clearing Module
+Automatically clears persistent caches after product and discount updates.
