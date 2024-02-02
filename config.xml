@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>clearcacheforce</name>
+    <displayName><![CDATA[clearcacheforce]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[Automatic cache clearing after all updates.]]></description>
+    <author><![CDATA[github.com/dogukanatakul]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+</module>
